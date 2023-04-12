@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harishbalivada
-- 👀 I’m interested in exploring the skills
-- 🌱 I’m currently learning c language
+- 👀 I’m interested in Designing interfaces using UI and UX
+- 🌱 I’m currently learning java and web development
 - 💞️ I’m looking to collaborate with experienced programmers
 - 📫 You can reach me on
       instagram - harishbalivada
